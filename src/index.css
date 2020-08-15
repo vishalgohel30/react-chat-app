@@ -1,0 +1,32 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+@import './assets//dist/css/lib/bootstrap.min.css';
+@import './assets//dist/css/swipe.min.css';
+@import './assets//dist/img/favicon.png';
+
+/* @import '/src/dist/js/jquery-3.3.1.slim.min.js';
+@import '/src/dist/js/vendor/jquery-slim.min.js';
+@import '/src/dist/js/vendor/popper.min.js';
+@import '/src/dist/js/bootstrap.min.js'; */ 
+
+
+@import './assets/dist/css/lib/bootstrap.min.css';
+@import './assets/dist/css/swipe.min.css';
+
+/* @import './assets/dist/js/jquery-3.3.1.slim.min.js'; */
+/* @import './assets/dist/js/vendor/jquery-slim.min.js'; */
+/* @import './assets/dist/js/vendor/popper.min.js'; */
+/* @import './assets/dist/js/bootstrap.min.js';  */
