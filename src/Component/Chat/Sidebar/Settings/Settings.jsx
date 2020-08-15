@@ -39,7 +39,7 @@ export default function Settings() {
                             <div className="content">
                                 <div className="upload">
                                     <div className="data">
-                                        <img className="avatar-xl" src="dist/img/avatars/avatar-male-1.jpg" alt="image" />
+                                        {/* <img className="avatar-xl" src="dist/img/avatars/avatar-male-1.jpg" alt="image" /> */}
                                         <label>
                                             <input type="file" />
                                             <span className="btn button">Upload avatar</span>
@@ -80,14 +80,14 @@ export default function Settings() {
 
                     {/* <!-- Start of Chat History --> */}
                     <div className="category">
-                        <a href="#" className="title collapsed" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                        {/* <a href="#" className="title collapsed" id="headingTwo" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo"> */}
                             <i className="material-icons md-30 online">mail_outline</i>
                             <div className="data">
                                 <h5>Chats</h5>
                                 <p>Check your chat history</p>
                             </div>
                             <i className="material-icons">keyboard_arrow_right</i>
-                        </a>
+                        {/* </a> */}
                         <div className="collapse" id="collapseTwo" aria-labelledby="headingTwo" data-parent="#accordionSettings">
                             <div className="content layer">
                                 <div className="history">
@@ -300,14 +300,14 @@ export default function Settings() {
 
                     {/* <!-- Start of Privacy & Safety --> */}
                     <div className="category">
-                        <a href="#" className="title collapsed" id="headingSeven" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+                        {/* <a href="#" className="title collapsed" id="headingSeven" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven"> */}
                             <i className="material-icons md-30 online">lock_outline</i>
                             <div className="data">
                                 <h5>Privacy & Safety</h5>
                                 <p>Control your privacy settings</p>
                             </div>
                             <i className="material-icons">keyboard_arrow_right</i>
-                        </a>
+                        {/* </a> */}
                         <div className="collapse" id="collapseSeven" aria-labelledby="headingSeven" data-parent="#accordionSettings">
                             <div className="content no-layer">
                                 <div className="set">
